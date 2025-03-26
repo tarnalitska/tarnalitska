@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the Erba iOS app
+- 👯 I’m looking to collaborate on app design & production
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-tarnalitskaya/)
+- 🇲🇹 In Malta
+
 <!--
 **tarnalitska/tarnalitska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
