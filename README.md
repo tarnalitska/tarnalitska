@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the Erba iOS app
 - 👯 I’m looking to collaborate on app design & production
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofya-tarnalitskaya/)
+- 📫 How to reach me: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055)](https://www.linkedin.com/in/sofya-tarnalitskaya/)
 - 🇲🇹 In Malta
 
 <!--
