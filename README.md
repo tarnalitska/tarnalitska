@@ -2,11 +2,8 @@
 
 - 🔭 I’m currently working on the Erba iOS app
 - 👯 I’m looking to collaborate on app design & production
-- <span>📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/sofya-tarnalitskaya/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" width="20" height="20" alt="LinkedIn">
-  </a> </span> 
 - 🇲🇹 In Malta
+- 💬 [LinkedIn](https://www.linkedin.com/in/sofya-tarnalitskaya/)
 
 <!--
 **tarnalitska/tarnalitska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
