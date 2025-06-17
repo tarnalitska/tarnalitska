@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Erba iOS app
-- 👯 I’m looking to collaborate on app design & production
 - 🇲🇹 In Malta
 - 💬 [LinkedIn](https://www.linkedin.com/in/sofya-tarnalitskaya/)
 
